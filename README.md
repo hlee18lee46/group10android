@@ -50,10 +50,19 @@
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
+- Courses
+  - User wants to see a full list of his/her classes from canvas.
+  - After selecting 
+- Progress
+  - User wants to see a full list of his/her classes from canvas.
+  - ...
+- Points
   - [list associated required story here]
   - ...
-- [list second screen here]
+- Calendar
+  - [list associated required story here]
+  - ...
+- Login
   - [list associated required story here]
   - ...
 
@@ -61,24 +70,33 @@
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Courses
+* Progress
+* Points
+* Calendar
+* Login
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- Courses
+  - Screen that lists courses
+  - Course screen that shows details about selected course
+- Progress
+  - Screen that displays the visualization of points earned vs points possible for each course.
+- Points
+  - Screen that shows how many in-app points a user earned.
+- Calendar
+  - Screen that shows the user-friendly calendar that also shows upcoming assignments.
+- Login
+  - Login Screen
+  - Profile Screen after logging in
 
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://i.imgur.com/5VESyRJ.jpg" width=600>
+<img src="https://i.imgur.com/mypnuwT.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+<img src="https://i.imgur.com/TbQFQAO.png" width=600>
 
 ### [BONUS] Interactive Prototype
