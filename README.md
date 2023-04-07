@@ -52,19 +52,16 @@
 
 - Courses
   - User wants to see a full list of his/her classes from canvas.
-  - After selecting 
+  - After selecting a course, user wants to see upcoming assignments for that course 
 - Progress
-  - User wants to see a full list of his/her classes from canvas.
-  - ...
+  - User wants to see a visualization of his/her progress from each class from canvas.
 - Points
-  - [list associated required story here]
-  - ...
+  - The app rewards the user with points when they do good on assignments. The user wants to see his in-app currency earned.
 - Calendar
-  - [list associated required story here]
-  - ...
+  - User wants to see a user friendly calendar that displays all the upcoming assignments in it.
 - Login
-  - [list associated required story here]
-  - ...
+  - User wants to log in with his/her credentials
+  - User want to see his/her profile after logging in.
 
 ### 3. Navigation
 
